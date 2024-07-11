@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.example.here_there.global.security.jwt.JwtProperties",
+      "sourceType": "com.example.here_there.global.security.jwt.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.access-exp",
+      "type": "java.lang.Long",
+      "sourceType": "com.example.here_there.global.security.jwt.JwtProperties"
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.here_there.global.security.jwt.JwtProperties"
+    }
+  ],
+  "hints": []
+}
